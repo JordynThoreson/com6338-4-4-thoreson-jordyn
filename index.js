@@ -71,4 +71,6 @@ document.onkeyup = function (e) {
       setTimeout(startNewGame);
     }
   }
-}
+};
+
+startNewGame();
